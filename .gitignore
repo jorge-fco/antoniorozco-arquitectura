@@ -6,6 +6,9 @@ assets/scss/*
 *.pug
 *.html
 !index.html
+!about.html
+!portafolio.html
+!project.html
 
 config/*
 pages/*
