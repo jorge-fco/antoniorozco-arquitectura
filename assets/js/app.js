@@ -1,7 +1,9 @@
 /*
-	APP
-	Jorge Fco.
-	2026
+	🪚 APP
+	JavaScript
+	----------
+	Jorge Fco.™
+	©2026
 */
 (function($){
 	'use strict';
@@ -9,6 +11,11 @@
 	const APP = {
 		init: function(){
 			APP.Header();
+
+			// Check
+			if($('.js-project').length){
+
+			}
 		},
 		Header: function(){
 			const Header = document.getElementById("header");
@@ -23,6 +30,9 @@
 
 			}
 		},
+		Project: function(){
+
+		}
 	};
 
 	// Run..
