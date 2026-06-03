@@ -9,6 +9,7 @@ assets/scss/*
 !about.html
 !portafolio.html
 !project.html
+!contact.html
 
 config/*
 pages/*
